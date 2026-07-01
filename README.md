@@ -1,2 +1,3 @@
 # mygallery
 手机上的隐私媒体管理器，快捷操作，日常使用无需网络，没有广告影响操作。手机里有隐私文件，拍照了不方便展示相册，别人用手机很担心？使用这个软件来避免你的文件被意外展示或被访问到，同时你可以利用这个软件高效的管理文件，检索，和备份。
+The privacy media manager on your phone offers quick and easy operations. It doesn't require an internet connection for daily use, and there are no advertisements to interfere with your operations. Do you have private files on your phone and are worried about showing your photo album when others use your phone? Use this software to prevent your files from being accidentally displayed or accessed. At the same time, you can efficiently manage, retrieve, and back up your files with this software.
